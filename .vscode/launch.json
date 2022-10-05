@@ -1,0 +1,49 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch java1000",
+            "request": "launch",
+            "mainClass": "java1000",
+            "projectName": "Algorithm-Practice_253ccc4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch java1001",
+            "request": "launch",
+            "mainClass": "java1001",
+            "projectName": "Algorithm-Practice_253ccc4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch java10718",
+            "request": "launch",
+            "mainClass": "java10718",
+            "projectName": "Algorithm-Practice_253ccc4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch java10926",
+            "request": "launch",
+            "mainClass": "java10926",
+            "projectName": "Algorithm-Practice_253ccc4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch java2557",
+            "request": "launch",
+            "mainClass": "java2557",
+            "projectName": "Algorithm-Practice_253ccc4c"
+        }
+    ]
+}
