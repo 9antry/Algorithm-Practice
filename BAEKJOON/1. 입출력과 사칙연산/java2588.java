@@ -6,7 +6,6 @@ public class java2588 {
         int A = sc.nextInt();
         int B = sc.nextInt();
         int temp = 10;
-        int total = 0;
 
         for(int i=1; i<=3; i++){
             System.out.println(A * (B%temp));
