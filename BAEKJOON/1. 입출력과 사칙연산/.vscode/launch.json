@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch java1000",
+            "request": "launch",
+            "mainClass": "java1000",
+            "projectName": "1. 입출력과 사칙연산_2f71431f"
+        },
+        {
+            "type": "java",
+            "name": "Launch java1001",
+            "request": "launch",
+            "mainClass": "java1001",
+            "projectName": "1. 입출력과 사칙연산_2f71431f"
+        },
+        {
+            "type": "java",
+            "name": "Launch java10430",
+            "request": "launch",
+            "mainClass": "java10430",
+            "projectName": "1. 입출력과 사칙연산_2f71431f"
+        },
+        {
+            "type": "java",
+            "name": "Launch java10718",
+            "request": "launch",
+            "mainClass": "java10718",
+            "projectName": "1. 입출력과 사칙연산_2f71431f"
+        },
+        {
+            "type": "java",
+            "name": "Launch java10926",
+            "request": "launch",
+            "mainClass": "java10926",
+            "projectName": "1. 입출력과 사칙연산_2f71431f"
+        },
+        {
+            "type": "java",
+            "name": "Launch java18108",
+            "request": "launch",
+            "mainClass": "java18108",
+            "projectName": "1. 입출력과 사칙연산_2f71431f"
+        },
+        {
+            "type": "java",
+            "name": "Launch java2557",
+            "request": "launch",
+            "mainClass": "java2557",
+            "projectName": "1. 입출력과 사칙연산_2f71431f"
+        },
+        {
+            "type": "java",
+            "name": "Launch java2588",
+            "request": "launch",
+            "mainClass": "java2588",
+            "projectName": "1. 입출력과 사칙연산_2f71431f"
+        },
+        {
+            "type": "java",
+            "name": "Launch java3003",
+            "request": "launch",
+            "mainClass": "java3003",
+            "projectName": "1. 입출력과 사칙연산_2f71431f"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "1. 입출력과 사칙연산_2f71431f"
+        }
+    ]
+}
